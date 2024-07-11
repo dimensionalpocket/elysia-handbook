@@ -2,6 +2,8 @@
 
 This is a code style guide for projects using [Bun](https://bun.sh/) and [ElysiaJS](https://elysiajs.com/) developed by the studio.
 
+_(WIP) - This is a work in progress._
+
 ## Project Structure
 
 - `config/` - Folder for storing config-related code.
@@ -13,3 +15,4 @@ This is a code style guide for projects using [Bun](https://bun.sh/) and [Elysia
 - `bunfig.toml` - Bun configuration.
 - `README.md` - Project's README.
 
+_(WIP) - This is a work in progress._
